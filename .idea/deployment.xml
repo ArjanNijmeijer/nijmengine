@@ -5,7 +5,7 @@
       <paths name="da03.nijm.nl">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/domains/nijmdev.nl/public_html/nijm.nl" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
