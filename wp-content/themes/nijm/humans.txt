@@ -1,0 +1,52 @@
+/* TEAM */
+	Chef:Arjan Nijmeijer
+	Contact: arjan [at] nijm.nl
+	Twitter: @NijmWebdesign
+	From:Stadskanaal, Groningen, Nederland
+
+	UI developer: Arjan Nijmeijer
+	Contact: arjan [at] nijm.nl
+	Twitter: @NijmWebdesign
+	From:Stadskanaal, Groningen, Nederland
+
+	One eyed illustrator: Arjan Nijmeijer
+	Contact: arjan [at] nijm.nl
+	Twitter: @NijmWebdesign
+	From:Stadskanaal, Groningen, Nederland
+
+	Standard Man: Arjan Nijmeijer
+	Contact: arjan [at] nijm.nl
+	Twitter: @NijmWebdesign
+	From:Stadskanaal, Groningen, Nederland
+
+	Web designer: Arjan Nijmeijer
+	Contact: arjan [at] nijm.nl
+	Twitter: @NijmWebdesign
+	From:Stadskanaal, Groningen, Nederland
+
+/* THANKS */
+
+	Special: Renske van der Hoeven
+	From: Groningen, Groningen, Nederland
+	
+	Special: Patrick Nijmeijer
+	From: Stadskanaal, Groningen, Nederland
+	
+	Special: Gert Nijmeijer
+	From: Stadskanaal, Groningen, Nederland
+	
+	Special: Christa Nijmeijer
+	From: Stadskanaal, Groningen, Nederland
+	
+	Special: Henk Nijmeijer
+	From: Stadskanaal, Groningen, Nederland
+	
+	Special: Lyanne Nijmeijer
+	From: Stadskanaal, Groningen, Nederland
+		
+
+/* SITE */
+	Last update: 2015/01/27
+	Language: Dutch
+	Doctype: HTML5
+	IDE: Aptana Studio, Notepad++, FileZilla, Photoshop, Dreamweaver

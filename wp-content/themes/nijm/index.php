@@ -1,0 +1,2 @@
+<?php
+$nijmengine->start();
